@@ -1,0 +1,20 @@
+{
+  "short_name": "Pipeline Builder",
+  "name": "VectorShift Pipeline Builder - AI Workflow Designer",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#f5f7fa"
+}
